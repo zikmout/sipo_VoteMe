@@ -1,0 +1,1 @@
+[{"constant":true,"inputs":[{"name":"","type":"uint256"}],"name":"storedData","outputs":[{"name":"","type":"uint256"}],"type":"function"},{"constant":true,"inputs":[],"name":"get","outputs":[{"name":"","type":"uint256[3]"}],"type":"function"},{"inputs":[{"name":"x","type":"uint256[3]"}],"type":"constructor"}]

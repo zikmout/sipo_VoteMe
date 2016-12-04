@@ -1,0 +1,10 @@
+jobs:
+
+- name: deployStorage
+  job:
+    deploy:
+      contract: ./idi.sol
+      instance: sipoPoll
+      data:
+        - "Test StRING" 12345678 12345677
+      wait: true

@@ -1,0 +1,17 @@
+jobs:
+
+- name: setArrayStorage
+  job:
+    set:
+      val: "Test"
+
+- name: deployStorage
+  job:
+    deploy:
+      contract: ./idi.sol
+      instance: sipoPoll
+      data: 
+        - "test"
+        - 1477824102
+        - 1479058669
+      wait: true

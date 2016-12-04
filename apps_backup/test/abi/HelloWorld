@@ -1,0 +1,1 @@
+[{"inputs":[],"type":"constructor"},{"anonymous":false,"inputs":[{"indexed":false,"name":"out","type":"string"}],"name":"Print","type":"event"}]

@@ -1,0 +1,1 @@
+[{"constant":true,"inputs":[],"name":"storedData","outputs":[{"name":"","type":"bool"}],"type":"function"},{"inputs":[{"name":"x","type":"bool"},{"name":"y","type":"bool"}],"type":"constructor"}]

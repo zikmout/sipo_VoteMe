@@ -1,0 +1,8 @@
+jobs:
+
+- name: deployStorage
+  job:
+    deploy:
+      contract: idi.sol
+      instance: all
+      wait: true

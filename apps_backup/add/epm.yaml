@@ -1,0 +1,8 @@
+jobs:
+
+- name: deployStorage
+  job:
+    deploy:
+      contract: DateTime.sol
+      instance: all
+      wait: true
